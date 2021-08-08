@@ -6,7 +6,7 @@
 
 - 🎓 I'm Software Engineering Undergraduate at Sri Lanka Institute of Information Technology(SLIIT).
 - 🌱 I’m currently learning everything.
-- 🥅 2021 Goals: Learn New Programming Language and Cloud Computing.
+- 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 📫 How to reach me: LinkedIn - @SuranUththamawadu
 - ⚡ Fun fact: I love to Sing and Watch Tv Series. 
 
