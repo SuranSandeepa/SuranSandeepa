@@ -7,8 +7,11 @@
 - 🎓 I'm Software Engineering Undergraduate at Sri Lanka Institute of Information Technology(SLIIT).
 - 🌱 I’m currently learning everything.
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
-- 📫 How to reach me: LinkedIn - @SuranUththamawadu
-- ⚡ Fun fact: I love to Sing and Watch Tv Series. 
+- 🥅 2021 Goals: Learn everything about Cloud Computing.
+- 📫 How to reach me: [Twitter - @SuranUththamawadu](https://twitter.com/SUththamawadu)
+                     , [LinkedIn -@SuranUththamawadu](https://www.linkedin.com/in/suran-uththamawadu-2080a41bb/)
+- 💬 Ask me about anything related to HTML/CSS/PHP/SQL.
+- ⚡ Fun fact: ❤️🐶 && I spend almost 12 hours listening songs everyday❤️🎧 
 
 ---
 
@@ -30,7 +33,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
-<br />
-<br />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuranSandeepa&layout=compact)](https://github.com/SuranSandeepa/github-readme-stats)
+
+<a href="https://github.com/SuranSandeepa">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuranSandeepa&show_icons=true&theme=light&line_height=27" alt="Suran's github stats"/> 
+</a>
 
 ---
