@@ -23,7 +23,10 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;<br/><br/>
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;<br/><br/>
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;<br/><br/>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=Visual%20Studio)&nbsp;
@@ -35,11 +38,17 @@
 
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuranSandeepa&layout=compact)](https://github.com/SuranSandeepa/github-readme-stats)
-
-<a href="https://github.com/SuranSandeepa">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuranSandeepa&show_icons=true&theme=light&line_height=27" alt="Suran's github stats"/> 
+<!-- <a href="https://github.com/SuranSandeepa">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuranSandeepa&show_icons=true&theme=light&line_height=27" alt="Suran's github stats"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuranSandeepa&layout=compact)](https://github.com/SuranSandeepa/github-readme-stats) -->
+  <p align="center">
+  <a href="https://github.com/SuranSandeepa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuranSandeepa&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="Suran's github stats""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuranSandeepa&layout=compact&langs_count=8&theme=light"/>
 </a>
+</p>
+
+
+
 
 ---
