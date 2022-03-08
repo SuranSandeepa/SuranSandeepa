@@ -7,7 +7,7 @@
 - 🎓 I'm Software Engineering Undergraduate at Sri Lanka Institute of Information Technology(SLIIT).
 - 🌱 I’m currently learning everything.
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
-- 🥅 2021 Goals: Learn everything about Cloud Computing.
+- 🥅 2022 Goals: Learn everything about Cloud Computing.
 - 📫 How to reach me: [Twitter - @SuranUththamawadu](https://twitter.com/SUththamawadu)
                      , [LinkedIn -@SuranUththamawadu](https://www.linkedin.com/in/suran-uththamawadu-2080a41bb/)
 - 💬 Ask me about anything related to HTML/CSS/PHP/SQL.
