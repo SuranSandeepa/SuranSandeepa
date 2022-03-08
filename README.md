@@ -11,7 +11,6 @@
 - 🥅 2022 Goals: Learn everything about Cloud Computing.
 - 📫 How to reach me: [Twitter - @SuranUththamawadu](https://twitter.com/SUththamawadu)
                      , [LinkedIn -@SuranUththamawadu](https://www.linkedin.com/in/suran-uththamawadu-2080a41bb/)
-- 💬 Ask me about anything related to HTML/CSS/PHP/SQL.
 - ⚡ Fun fact: ❤️🐶 && I spend almost 12 hours listening songs everyday❤️🎧 
 
 
