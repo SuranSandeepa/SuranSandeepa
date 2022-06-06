@@ -37,7 +37,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
-
 <!-- <a href="https://github.com/SuranSandeepa">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuranSandeepa&show_icons=true&theme=light&line_height=27" alt="Suran's github stats"/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuranSandeepa&layout=compact)](https://github.com/SuranSandeepa/github-readme-stats) -->
