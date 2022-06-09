@@ -48,6 +48,6 @@
 </a>
 </p>
                                                                                                                                               
-### :snake: Snake Eating My Contribution Graph
+### :snake: Snake eating my contribution graph
 ![snake gif](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-contribution-grid-snake.gif)
 ---                                                                                                                                                 
