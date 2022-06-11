@@ -11,8 +11,7 @@
 - 🥅 2022 Goals: Learn everything about Cloud Computing.
 - 📫 How to reach me: [Twitter - @SuranUththamawadu](https://twitter.com/SUththamawadu)
                      , [LinkedIn -@SuranUththamawadu](https://www.linkedin.com/in/suran-uththamawadu-2080a41bb/)
-- ⚡ Fun fact: ❤️🐶 && I spend almost 12 hours listening songs everyday❤️🎧 
-
+- ⚡ Fun fact: ❤️🐶 && I spend almost 12 hours listening songs everyday❤️🎧   
 
 ### 🛠 &nbsp; Languages and Tools:
 
@@ -41,6 +40,7 @@
 <!-- <a href="https://github.com/SuranSandeepa">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuranSandeepa&show_icons=true&theme=light&line_height=27" alt="Suran's github stats"/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuranSandeepa&layout=compact)](https://github.com/SuranSandeepa/github-readme-stats) -->
+
   <p align="center">
   <a href="https://github.com/SuranSandeepa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuranSandeepa&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="Suran's github stats""/>
@@ -50,4 +50,7 @@
                                                                                                                                               
 ### :snake: Snake eating my contribution graph
 ![snake gif](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-contribution-grid-snake.gif)
----                                                                                                                                                 
+
+ <a href="https://twitter.com/SUththamawadu">
+  <img align="right" alt="Suran Sandeepa | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>   
