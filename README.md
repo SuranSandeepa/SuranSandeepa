@@ -18,7 +18,7 @@
 
 <p>                                                                                                                                                 
 <p align="right">
-<a href="https://www.hackerrank.com/suran_sandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suran_sandeepa" height="25" width="25" /></a>
+<a href="https://www.hackerrank.com/suran_sandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suran_sandeepa" height="25" width="23" /></a>
 
                                                                                                                                                  
  <a href="https://twitter.com/SUththamawadu">
