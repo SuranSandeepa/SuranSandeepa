@@ -25,7 +25,7 @@
   <img align="right" alt="Suran Sandeepa | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>   
 </p>
-<br><br>
+<br>
 
 ### 🛠 &nbsp; Languages and Tools:
 
