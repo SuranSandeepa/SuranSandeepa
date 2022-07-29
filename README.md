@@ -4,7 +4,7 @@
 </h3>
 <!--Githu Stats-->
 <p align="center">
-<a href="https://github.com/SuranSandeepa"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=7000&color=81F715&center=true&vCenter=true&lines=Hi%2C+I'm+Suran+Sandeepa;+Full-Stack+Web+%26+App+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&color=45F727&center=true&vCenter=true&lines=Hi%2C+I'm+Suran+Sandeepa;Full-Stack+Web+%26+App+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <!--Githu Stats-->
