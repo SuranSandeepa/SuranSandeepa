@@ -2,11 +2,12 @@
   Welcome to Suran Sandeepa's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
+<!--Githu Stats-->
 <p align="center">
 <a href="https://github.com/SuranSandeepa"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=7000&color=81F715&center=true&vCenter=true&lines=Hi%2C+I'm+Suran+Sandeepa;+Full-Stack+Web+%26+App+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
+<!--Githu Stats-->
 <p align="center">
   <a href="https://github.com/SuranSandeepa?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/SuranSandeepa?color=%23E05D44&style=for-the-badge&labelColor=%23E05D44&logo=star"/></a>
@@ -78,3 +79,9 @@
                                                                                                                                               
 ### :hear_no_evil: Snake eating my contribution graph
 ![Snake animation](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-contribution-grid-snake.svg)
+
+<div>                                                                                                                                                 
+<a href="[https://instagram.com/rafaballerini](https://www.instagram.com/suransandeepa/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>                                                                                                                                               
+<a href = "mailto:sandeepa.uththamawadu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/suransandeepa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                                                                                                               </div>                                   
+                                                                                                                                              
