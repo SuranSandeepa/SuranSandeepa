@@ -1,6 +1,20 @@
-![e671b030905d5ca04572953a747facc7](https://user-images.githubusercontent.com/74088854/180490282-80551cf7-2866-418d-898d-a8230071131f.gif)
+<h3 align="center">
+  Welcome to Suran Sandeepa's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-### 👋 Hi there, I'm Suran Sandeepa
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=7000&color=81F715&center=true&vCenter=true&lines=Hi%2C+I'm+Suran+Sandeepa;+Full-Stack+Web+%26+App+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SuranSandeepa?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/SuranSandeepa?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/SuranSandeepa?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/SuranSandeepa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/SuranSandeepa/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
 ---
 
 ### :raising_hand_man: &nbsp; About Me:
