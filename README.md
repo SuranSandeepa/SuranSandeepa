@@ -72,8 +72,8 @@
 
   <p align="center">
   <a href="https://github.com/SuranSandeepa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuranSandeepa&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="Suran's github stats""/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuranSandeepa&layout=compact&langs_count=8&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuranSandeepa&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="Suran's github stats""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuranSandeepa&layout=compact&langs_count=8&theme=vue-dark"/>
 </a>
 </p>
                                                                                                                                               
@@ -83,5 +83,4 @@
 <div>                                                                                                                                                 
 <a href="https://www.instagram.com/suransandeepa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>                                                                                                                                               
 <a href = "mailto:sandeepa.uththamawadu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/suransandeepa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                                                                                                               </div>                                   
-                                                                                                                                              
+  <a href="https://www.linkedin.com/in/suransandeepa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                                                                                                               </div>                                                                                                                 
