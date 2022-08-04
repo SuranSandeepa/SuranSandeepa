@@ -6,7 +6,7 @@
 <div>
   <p align="center">
   <a href="https://github.com/SuranSandeepa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&color=45F727&center=true&vCenter=true&lines=Hi%2C+I'm+Suran+Sandeepa;Full-Stack+Web+%26+App+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=33&color=45F727&center=true&vCenter=true&lines=Hi%2C+I'm+Suran+Sandeepa;Full-Stack+Web+%26+App+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
   </p>
   <div align="right">
       <!--HackeRank-->                
@@ -27,9 +27,11 @@
   <div align="center">
   <a href="https://github.com/SuranSandeepa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuranSandeepa&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="Suran's github stats""/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuranSandeepa&layout=compact&langs_count=8&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuranSandeepa&layout=compact&langs_count=8&theme=vue-dark "/> 
 </div>
-                                                                                                                                                    
+
+<!--vue-dark, jolly, outrun, prussian -->
+
 <br>
 <!--Languages-->                                                                                                                                                    
 <div style="display: inline_block"><br>       
