@@ -107,7 +107,7 @@
    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>                                                  </div>                                                                                                              
   
-[![SuranSandeepa's github activity graph](https://activity-graph.herokuapp.com/graph?username=SuranSandeepa&theme=react-dark)](https://github.com/SuranSandeepa/github-readme-activity-graph)                                                                                                            
+[![SuranSandeepa's github activity graph](https://activity-graph.herokuapp.com/graph?username=SuranSandeepa&theme=react-dark)](https://github.com/SuranSandeepa)                                                                                                            
                                                                                                                   
                                                                                                                   
 <!-- **********************************************************************************************************************************************-->
