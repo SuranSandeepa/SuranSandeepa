@@ -78,7 +78,17 @@
 
 <!--Snake eating my contribution graph-->
 ![Snake animation](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-contribution-grid-snake.svg)  
+
+<div align="center">
+<a href="https://github.com/SuranSandeepa/School-Management-System">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=School-Management-System&theme=vue-dark"/></a>
+<a href="https://github.com/SuranSandeepa/Yathra-Tain-APP">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=Yathra-Tain-APP&theme=vue-dark"/></a>
+</div> 
+                                                                                                                                    
+<br>
  
+                                                                                                                              
 **_Wanna :eyes: my projects? Click Badges :shaved_ice:_**
  
 <div> 
@@ -94,10 +104,8 @@
   <a href="https://github.com/search?q=user%3ASuranSandeepa+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a> 
    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
-   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>                                                 
-                                                                                                                                          
-</div>
-
+   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>                                                  </div>                                                                                                              
+                                                                                                                  
 <!-- **********************************************************************************************************************************************-->
 <!--Github Stats Badges
 <p align="center">
