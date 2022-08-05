@@ -8,17 +8,6 @@
   <a href="https://github.com/SuranSandeepa">
     <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=33&color=45F727&center=true&vCenter=true&lines=Hi%2C+I'm+Suran+Sandeepa;Full-Stack+Web+%26+App+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
   </p>
-  <div align="right">
-      <!--HackeRank-->                
-      <a href="https://www.hackerrank.com/suran_sandeepa" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suran_sandeepa" height="25" width="23" />
-      </a>    
-      <!--Twitter-->
-      <a href="https://twitter.com/SUththamawadu">
-        <img align="right" alt="Suran Sandeepa | Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-      </a> 
-  </div> 
-</div>
 
 ##
 <br>
@@ -79,6 +68,8 @@
 <!--Snake eating my contribution graph-->
 ![Snake animation](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-contribution-grid-snake.svg)  
 
+<!--***************************************************************************************************************************************************************-->
+
 <div align="center">
 <a href="https://github.com/SuranSandeepa/School-Management-System">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=School-Management-System&theme=vue-dark"/></a>
@@ -87,7 +78,20 @@
 <a href="https://github.com/SuranSandeepa/Employee-Management-System">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=Employee-Management-System&theme=vue-dark"/></a>                   <a href="https://github.com/SuranSandeepa/Online-Video-Browsing-System">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=Online-Video-Browsing-System&theme=vue-dark"/></a>                </div> 
-                                                                                                                                    
+
+<div align="right">
+      <!--HackeRank-->                
+      <a href="https://www.hackerrank.com/suran_sandeepa" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suran_sandeepa" height="25" width="23" />
+      </a>    
+      <!--Twitter-->
+      <a href="https://twitter.com/SUththamawadu">
+        <img align="right" alt="Suran Sandeepa | Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+      </a> 
+  </div> 
+</div>
+
+<!--
 <br>
                                                                                                                              
 **_Wanna :eyes: my projects? Click Badges :shaved_ice:_**
@@ -109,7 +113,7 @@
 
 <br>
 
-[![SuranSandeepa's github activity graph](https://activity-graph.herokuapp.com/graph?username=SuranSandeepa&theme=react-dark)](https://github.com/SuranSandeepa)                                                                                                            
+[![SuranSandeepa's github activity graph](https://activity-graph.herokuapp.com/graph?username=SuranSandeepa&theme=react-dark)](https://github.com/SuranSandeepa)       -->                                                                                                     
                                                                                                                   
                                                                                                                   
 <!-- **********************************************************************************************************************************************-->
