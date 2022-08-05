@@ -26,7 +26,6 @@
 <div style="display: inline_block"><br>       
 <!--   <img align="center" alt="Suran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Suran-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Suran-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Suran-dotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="Suran-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Suran-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -46,6 +45,7 @@
   <img align="center" alt="Suran-Boostrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <a href="https://github.com/search?q=user%3ASuranSandeepa+language%3Ahtml"><a href="https://github.com/search?q=user%3ASuranSandeepa+language%3Aphp"><img align="center" alt="Suran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://github.com/search?q=user%3ASuranSandeepa+language%3Acss"><img align="center" alt="Suran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://github.com/search?q=user%3ASuranSandeepa+language%3AC#"><img align="center" alt="Suran-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
   
   <img align="right" alt="Jetpacktocat" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/74088854/182030797-ed4818d5-1b3e-4c63-8614-372e8d833c9c.png?width=676&height=676">
 </div>
@@ -68,17 +68,6 @@
 <!--Snake eating my contribution graph-->
 ![Snake animation](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-contribution-grid-snake.svg)  
 
-<!--***************************************************************************************************************************************************************-->
-
-<div align="center">
-<a href="https://github.com/SuranSandeepa/School-Management-System">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=School-Management-System&theme=vue-dark"/></a>
-<a href="https://github.com/SuranSandeepa/Yathra-Train-APP">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=Yathra-Train-APP&theme=vue-dark"/></a>
-<a href="https://github.com/SuranSandeepa/Employee-Management-System">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=Employee-Management-System&theme=vue-dark"/></a>                   <a href="https://github.com/SuranSandeepa/Online-Video-Browsing-System">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=Online-Video-Browsing-System&theme=vue-dark"/></a>                </div> 
-
 <div align="right">
       <!--HackeRank-->                
       <a href="https://www.hackerrank.com/suran_sandeepa" target="blank">
@@ -90,6 +79,17 @@
       </a> 
   </div> 
 </div>
+
+<!--***************************************************************************************************************************************************************-->
+
+<!--<div align="center">
+<a href="https://github.com/SuranSandeepa/School-Management-System">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=School-Management-System&theme=vue-dark"/></a>
+<a href="https://github.com/SuranSandeepa/Yathra-Train-APP">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=Yathra-Train-APP&theme=vue-dark"/></a>
+<a href="https://github.com/SuranSandeepa/Employee-Management-System">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=Employee-Management-System&theme=vue-dark"/></a>                   <a href="https://github.com/SuranSandeepa/Online-Video-Browsing-System">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=Online-Video-Browsing-System&theme=vue-dark"/></a>                </div>--> 
 
 <!--
 <br>
