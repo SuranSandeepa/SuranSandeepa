@@ -82,8 +82,8 @@
 <div align="center">
 <a href="https://github.com/SuranSandeepa/School-Management-System">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=School-Management-System&theme=vue-dark"/></a>
-<a href="https://github.com/SuranSandeepa/Yathra-Tain-APP">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=Yathra-Tain-APP&theme=vue-dark"/></a>
+<a href="https://github.com/SuranSandeepa/Yathra-Train-APP">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=Yathra-Train-APP&theme=vue-dark"/></a>
 <a href="https://github.com/SuranSandeepa/Employee-Management-System">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=Employee-Management-System&theme=vue-dark"/></a>                   <a href="https://github.com/SuranSandeepa/Online-Video-Browsing-System">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=Online-Video-Browsing-System&theme=vue-dark"/></a>                </div> 
