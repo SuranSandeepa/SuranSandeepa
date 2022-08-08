@@ -47,10 +47,11 @@
   <img align="center" alt="Suran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Suran-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  <img align="right" alt="Jetpacktocat" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/74088854/182030797-ed4818d5-1b3e-4c63-8614-372e8d833c9c.png?width=676&height=676">
+  <img align="right" alt="Jetpacktocat" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/74088854/183437829-b5e56120-c804-4785-a893-9649944deaf2.png?width=676&height=676">
 </div>
 
-  ##                                                                                                                                                                                                                                                                                                   
+  ##    
+                                                                                                                                                                                                                                                                                        
 <div>                                                                                                                                               
 <!--Instagram-->               
 <a href="https://www.instagram.com/suransandeepa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
