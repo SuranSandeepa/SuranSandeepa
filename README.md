@@ -16,7 +16,7 @@
   <div align="center">
   <a href="https://github.com/SuranSandeepa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuranSandeepa&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="Suran's github stats""/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuranSandeepa&layout=compact&langs_count=8&theme=vue-dark "/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuranSandeepa&layout=compact&langs_count=8&theme=vue-dark"/> 
 </div>
 
 <!--vue-dark, jolly, outrun, prussian -->
