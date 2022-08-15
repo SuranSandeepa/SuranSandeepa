@@ -128,8 +128,7 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p> -->
                                                                                                                   
-                                                                                                                  
-                                                                                                                  
+                                                                                                                                                                                                                                   
 <!-- ### :raising_hand_man: &nbsp; About Me:
 - 🎓 I'm Software Engineering Undergraduate at Sri Lanka Institute of Information Technology(SLIIT).
 - 🌱 I’m currently learning everything.
