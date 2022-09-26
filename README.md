@@ -8,7 +8,7 @@
   <a href="https://github.com/SuranSandeepa">
     <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=33&color=45F727&center=true&vCenter=true&lines=Hi%2C+I'm+Suran+Sandeepa;Full-Stack+Web+%26+App+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
   </p>
-1
+
 ##
 <br>
   
