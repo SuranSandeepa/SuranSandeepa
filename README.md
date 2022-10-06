@@ -82,7 +82,7 @@
 </div>
 
 
-<a href=""><img src="https://api.daily.dev/devcards/4a1d4173f79b4ec6aa2821c468eba1a7.png?r=u5o" width="400" alt="Suran Sandeepa's Dev Card"/></a>
+<img src="https://api.daily.dev/devcards/4a1d4173f79b4ec6aa2821c468eba1a7.png?r=u5o" width="400" alt="Suran Sandeepa's Dev Card"/>
 
 <!--***************************************************************************************************************************************************************-->
 
