@@ -68,7 +68,7 @@
 </div> 
 
 <!--Snake eating my contribution graph-->
-![Snake animation](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-contribution-grid-snake.svg) 
 
 <div align="right">
       <!--HackeRank-->                
