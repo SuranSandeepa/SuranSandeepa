@@ -67,8 +67,8 @@
 <a href="https://medium.com/@suransandeepauththamawadu" target="_blank"><img src="https://img.shields.io/badge/Medium-66cdaa?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div> 
 
-<!--Snake eating my contribution graph-->
-![Snake animation](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-contribution-grid-snake.svg) 
+<!--Snake-->
+![snake gif](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-contribution-grid-snake.gif)
 
 <div align="right">
       <!--HackeRank-->                
