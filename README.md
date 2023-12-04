@@ -68,7 +68,7 @@
 </div> 
 
 <!--Snake-->
-![snake gif](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-contribution-grid-snake.svg)
 
 <div align="right">
       <!--HackeRank-->                
