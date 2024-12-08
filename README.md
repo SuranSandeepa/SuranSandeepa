@@ -67,18 +67,17 @@
 
   ##    
                                                                                                                                                                                                                                                                                         
-<div>                                                                                                                                               
+<div>
+<!--Linkein-->
+<a href="https://www.linkedin.com/in/suransandeepa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!--Gmail-->                                  
+<a href = "mailto:sandeepa.uththamawadu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!--Medium-->
+<a href="https://medium.com/@suransandeepauththamawadu" target="_blank"><img src="https://img.shields.io/badge/Medium-66cdaa?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <!--Instagram-->               
 <a href="https://www.instagram.com/suransandeepa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--facebook-->
 <a href="https://www.facebook.com/suran.sandeep/" target="_blank"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<!--Gmail-->                                  
-<a href = "mailto:sandeepa.uththamawadu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!--Linkein-->
-<a href="https://www.linkedin.com/in/suransandeepa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://medium.com/@suransandeepauththamawadu" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-<!--Medium-->
-<a href="https://medium.com/@suransandeepauththamawadu" target="_blank"><img src="https://img.shields.io/badge/Medium-66cdaa?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div> 
 
 <!--Snake-->
