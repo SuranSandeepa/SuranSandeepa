@@ -23,7 +23,22 @@
 
 <br>
 <!--Languages-->                                                                                                                                                    
-<div style="display:inline_block"><br>       
+<div style="display:inline_block"><br>    
+  <!-- DevOps and Cloud Tools Icons -->
+  <img align="center" alt="Suran-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Suran-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Suran-AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+  <img align="center" alt="Suran-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img align="center" alt="Suran-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Suran-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Suran-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="Suran-Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
+  <img align="center" alt="Suran-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Suran-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg">
+  <img align="center" alt="Suran-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<!--   <img align="center" alt="Suran-ArgoCD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argo/argo-original.svg"> -->
+<br>    
+<br>
   <img align="center" alt="Suran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Suran-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Suran-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -37,7 +52,6 @@
   <img align="center" alt="Suran-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
   <img align="right" alt="Jetpacktocat" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/74088854/183437829-b5e56120-c804-4785-a893-9649944deaf2.png?width=676&height=676">
-  
   <!--   <img align="center" alt="Suran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Suran-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Suran-dotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
