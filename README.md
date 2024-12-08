@@ -82,7 +82,11 @@
 </div> 
 
 <!--Snake-->
-![snake gif](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+  ![snake gif](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-snake-dark.svg)
+</div>
+
 
 <div align="right">
       <!--HackeRank-->                
