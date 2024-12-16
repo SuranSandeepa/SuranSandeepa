@@ -25,6 +25,9 @@
 <!--Languages-->                                                                                                                                                    
 <div style="display:inline_block"><br>    
   <!-- DevOps and Cloud Tools Icons -->
+
+  
+  <img align="center" alt="Suran-ArgoCD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" />  
   <img align="center" alt="Suran-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Suran-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Suran-AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
@@ -32,11 +35,10 @@
   <img align="center" alt="Suran-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
   <img align="center" alt="Suran-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Suran-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="Suran-Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
+  <img align="center" alt="Suran-Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" class="devicon-ansible-plain-wordmark" />
   <img align="center" alt="Suran-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Suran-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg">
   <img align="center" alt="Suran-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-<!--   <img align="center" alt="Suran-ArgoCD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argo/argo-original.svg"> -->
 <br>    
 <br>
   <img align="center" alt="Suran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
