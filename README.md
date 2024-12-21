@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Suran Sandeepa's profile!
+  Cloud & DevOps Enthusiast in Action
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <!--Typing Name-->
