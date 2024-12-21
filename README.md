@@ -6,7 +6,7 @@
 <div>
   <p align="center">
   <a href="https://github.com/SuranSandeepa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=33&color=45F727&center=true&vCenter=true&lines=Hi%2C+I'm+Suran+Sandeepa;Full-Stack+Web+%26+App+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=29&duration=3000&pause=1000&color=24F71A&background=B4FF3F00&center=true&vCenter=true&width=455&height=65&lines=Hola!+%F0%9F%91%8B+I'm+Suran+Sandeepa;Cloud+%E2%98%81%EF%B8%8F+%26+DevOps+Enthusiast+%E2%9A%99%EF%B8%8F;Building+the+future%2C+one+deploy+at+a+time+%F0%9F%9A%80" alt="Typing SVG" /></a>
   </p>
  
 ##
