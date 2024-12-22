@@ -100,4 +100,3 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=aws-terraform-gitlab-pipeline&theme=aura&show_icons=true" alt="aws-terraform-gitlab-pipeline Repository" />
   </a>
 </div>
-
