@@ -61,7 +61,7 @@
   <img align="center" alt="Suran-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
   
-<img align="right" alt="Jetpacktocat" height="150" style="border-radius:50px" src="https://github.com/user-attachments/assets/141bd9c0-6505-4925-b69f-2764ac5dee4a?width=1000&height=1300">
+<img align="right" alt="Jetpacktocat" height="150" style="border-radius:50px" src="https://github.com/user-attachments/assets/141bd9c0-6505-4925-b69f-2764ac5dee4a?width=2000&height=2300">
   <!--<img align="right" alt="Jetpacktocat" height="150" style="border-radius:50px" src="https://user-images.githubusercontent.com/74088854/183437829-b5e56120-c804-4785-a893-9649944deaf2.png?width=676&height=676">-->
 </div>
 
