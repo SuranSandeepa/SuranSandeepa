@@ -60,7 +60,7 @@
   <img align="center" alt="Suran-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Suran-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  <img align="right" alt="Jetpacktocat" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/74088854/183437829-b5e56120-c804-4785-a893-9649944deaf2.png?width=676&height=676">
+  <img align="right" alt="Jetpacktocat" height="150" style="border-radius:50px" src="https://user-images.githubusercontent.com/74088854/183437829-b5e56120-c804-4785-a893-9649944deaf2.png?width=676&height=676">
 </div>
 
   ##    
@@ -80,6 +80,7 @@
 
 <!--Snake-->
 <div align="center">
+ 
   ![snake gif](https://github.com/SuranSandeepa/SuranSandeepa/blob/output/github-snake-dark.svg)
 </div>
 
