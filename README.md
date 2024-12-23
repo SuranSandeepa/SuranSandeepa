@@ -4,8 +4,7 @@
 </h3>-->
 
 <h3 align="center">
-  Cloud & DevOps Enthusiast in Action
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Cloud & DevOps Enthusiast in Action
   <img src="https://github.com/user-attachments/assets/5b47a489-8d1e-4811-85a4-751bd13471e4" height="50" width="50"> 
 </h3>
 
