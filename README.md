@@ -1,12 +1,19 @@
+<!--<h3 align="center">
+ 🐳 Cloud & DevOps Enthusiast in Action
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>-->
+
 <h3 align="center">
   Cloud & DevOps Enthusiast in Action
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://github.com/user-attachments/assets/5b47a489-8d1e-4811-85a4-751bd13471e4" height="50" width="50"> 
 </h3>
+
 <!--Typing Name-->
 <div>
   <p align="center">
   <a href="https://github.com/SuranSandeepa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=29&duration=3000&pause=1000&color=24F71A&background=B4FF3F00&center=true&vCenter=true&width=455&height=65&lines=Hola!+%F0%9F%91%8B+I'm+Suran+Sandeepa;Cloud+%E2%98%81%EF%B8%8F+%26+DevOps+Enthusiast+%E2%9A%99%EF%B8%8F;Building+the+future%2C+one+deploy+at+a+time+%F0%9F%9A%80" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&duration=3000&pause=1000&color=09A8FF&center=true&vCenter=true&width=435&lines=Hola!%F0%9F%91%8B+I'm+Suran+Sandeepa...;Cloud+and+DevOps+Enthusiast+%F0%9F%90%B3;Building+the+future%2C+one+deploy+at+a+time+%F0%9F%9A%80" alt="Typing SVG" /></a>
   </p>
  
 ##
