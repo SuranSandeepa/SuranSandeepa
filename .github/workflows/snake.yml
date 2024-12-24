@@ -31,7 +31,7 @@ jobs:
             dist/github-snake.svg?color_snake=#1E90FF&olor_dots=#FFA500,#FF8C00,#FF7F50&color_background=#FFFFFF
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#1E90FF&color_background=#FF7F50
             dist/github-snake-ocean.svg?color_snake=#1E90FF&color_dots=#00CED1,#20B2AA,#4682B4&color_background=#87CEFA
-            dist/github-snake-dark-ocean.svg?palette=github-dark&color_snake=#1E90FF&color_dots=#20B2AA,#4682B4,#5F9EA0&color_background=#1A1A1A
+            dist/github-snake-dark-ocean.svg?palette=github-dark&color_snake=#1E90FF&color_dots=#FCCB06,#4682B4,#5F9EA0&color_background=#1A1A1A
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
