@@ -87,6 +87,18 @@
 </div>
 
 
+<br>
+<!-- Readme Card -->
+<div align="center">
+  <a href="https://github.com/SuranSandeepa/AzureDevops-ArgoCD-E2E-CICD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=AzureDevops-ArgoCD-E2E-CICD&theme=prussian&show_icons=true" alt="AzureDevops-ArgoCD-E2E-CICD Repository" />
+  </a>
+  <a href="https://github.com/SuranSandeepa/aws-terraform-gitlab-pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=aws-terraform-gitlab-pipeline&theme=prussian&show_icons=true" alt="aws-terraform-gitlab-pipeline Repository" />
+  </a>
+</div>
+
+
 <div align="right">
       <!--HackeRank-->                
       <a href="https://www.hackerrank.com/suran_sandeepa" target="blank">
@@ -97,16 +109,5 @@
         <img align="right" alt="Suran Sandeepa | Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
       </a> 
   </div> 
-</div>
-
-<br>
-<!-- Readme Card -->
-<div align="center">
-  <a href="https://github.com/SuranSandeepa/AzureDevops-ArgoCD-E2E-CICD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=AzureDevops-ArgoCD-E2E-CICD&theme=prussian&show_icons=true" alt="AzureDevops-ArgoCD-E2E-CICD Repository" />
-  </a>
-  <a href="https://github.com/SuranSandeepa/aws-terraform-gitlab-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuranSandeepa&repo=aws-terraform-gitlab-pipeline&theme=prussian&show_icons=true" alt="aws-terraform-gitlab-pipeline Repository" />
-  </a>
 </div>
 
