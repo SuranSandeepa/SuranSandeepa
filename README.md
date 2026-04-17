@@ -34,7 +34,7 @@
   <!-- DevOps and Cloud Tools Icons -->
 
   
-  <img align="center" alt="Suran-ArgoCD" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" />  
+<!--  <img align="center" alt="Suran-ArgoCD" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" />  
   <img align="center" alt="Suran-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Suran-Kubernetes" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Suran-AWS" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
@@ -45,8 +45,8 @@
   <img align="center" alt="Suran-Ansible" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" class="devicon-ansible-plain-wordmark" />
   <img align="center" alt="Suran-Jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Suran-Grafana" height="40" width="50" src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg">
-<br>    
-<br>
+<br> --> 
+<!-- <br>
   <img align="center" alt="Suran-Go" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Suran-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Suran-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -58,7 +58,7 @@
   <img align="center" alt="Suran-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Suran-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Suran-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Suran-Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Suran-Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> -->
   
   
 <img align="right" alt="Jetpacktocat" height="180" style="border-radius:50px" src="https://github.com/user-attachments/assets/141bd9c0-6505-4925-b69f-2764ac5dee4a?">
